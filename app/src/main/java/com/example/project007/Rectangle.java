@@ -1,4 +1,5 @@
 package com.example.project007;
 
-public class Rectangle {
+public class Rectangle extends Shape{
 }
+
