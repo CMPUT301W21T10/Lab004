@@ -1,5 +1,5 @@
 package com.example.project007;
 
-public class Etc {
+public class Etc extends Shape{
 
 }
