@@ -1,5 +1,5 @@
 package com.example.project007;
 
-public class Shape {
+public abstract class Shape {
     int x,y;
 }
